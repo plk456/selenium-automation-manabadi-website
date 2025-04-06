@@ -8,8 +8,8 @@
 I build this project last year according to my ecet hallticket number. It might be changed for the next year.
 This automation brings me results of 10 members results in 10 seperate chrome browsers according to the provided hallticket number.
 
-#git hub plk456
-#selenium-automation:
+# git hub plk456
+# selenium-automation:
 
 Selenium is a Powerful tool for automating tasks, testing websites, and scraping data -
 * Navigating to a website
@@ -18,15 +18,15 @@ Selenium is a Powerful tool for automating tasks, testing websites, and scraping
 * Entering text into input fields
 Selenium uses a browser driver to interact with the website.
 
-#Installation:
+# Installation:
 
 First we need to install driver for web browser.The driver acts as an intermediary between Selenium and the browser.
 
-#Users need to download there web driver according to there VERSION of browser they use.
+# Users need to download there web driver according to there VERSION of browser they use.
 
 Firstly user need to check the version of there brower.users can see the version of there browers in browser settings like "aboutchrome" in chrome or "aboutfirefox" in firefox.
 
-#Here present MY chrome version is Version 125.0.----.---.
+# Here present MY chrome version is Version 125.0.----.---.
 
 After finding the version of browser user using. They can download the webdriver by link i have provided below.
 
