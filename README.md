@@ -9,13 +9,6 @@ I build this project last year according to my ecet hallticket number. It might 
 This automation brings me results of 10 members results in 10 seperate chrome browsers according to the provided hallticket number.
 
 #git hub plk456
- ____  _     _                
-|  _ \| |   | | __ 
-| |_) | |   | |/ /          
-|  __/| |___|   <                      
-|_|   |_____|_|\_|                  
- 
-
 #selenium-automation:
 
 Selenium is a Powerful tool for automating tasks, testing websites, and scraping data -
